@@ -65,7 +65,7 @@
 
       <div class="travel-card">
         <a href="#">
-          <img src="https://cc-prod.scene7.com/is/image/CCProdAuthor/cityscape-photography_P1_mobile_360x270?$pjpeg$&jpegSize=200&wid=720">
+          <img src="">
           <h3>도심 투어</h3>
           <p>Lorem ipsum dolor sit. Lorem ipsum dolor sit.</p>
         </a>
@@ -73,7 +73,7 @@
 
       <div class="travel-card">
         <a href="#">
-          <img src="https://gongu.copyright.or.kr/gongu/wrt/cmmn/wrtFileImageView.do?wrtSn=9046030&filePath=L2Rpc2sxL25ld2RhdGEvMjAxNC8yMS9DTFM0L2FzYWRhbF8yNTY4NjZfMjAxNDA0MTY=&thumbAt=Y&thumbSe=b_tbumb&wrtTy=10004">
+          <img src="">
           <h3>바다 즐기기</h3>
           <p>Lorem ipsum dolor sit amet. Consectetur adipisicing elit.</p>
         </a>
@@ -81,7 +81,7 @@
 
       <div class="travel-card">
         <a href="#">
-          <img src="https://img.freepik.com/premium-photo/amazing-mountain-landscape-beautiful-clouds-fields-mountains-aerial-view_396174-842.jpg">
+          <img src="">
           <h3>등산 도전하기</h3>
           <p>Lorem ipsum dolor sit amet. Lorem, ipsum dolor.</p>
         </a>
@@ -89,7 +89,7 @@
 
       <div class="travel-card">
         <a href="#">
-          <img src="https://pimg.mk.co.kr/meet/neds/2020/12/image_readtop_2020_1263248_16074725144464348.jpg">
+          <img src="">
           <h3>관광지 투어</h3>
           <p>Lorem, ipsum dolor. Lorem ipsum dolor sit amet.</p>
         </a>
